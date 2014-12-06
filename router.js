@@ -5,6 +5,6 @@ Blogger.Router.map(function() {
 		this.resource('phone');
 		this.resource('email');
 	});
-
+	this.recource('recent-comments');
 
 });
